@@ -12,6 +12,9 @@ This page compiles the resources that we think are the most useful. If you find 
 - [Terminal Cheatsheet](https://github.com/0nn0/terminal-mac-cheatsheet/wiki/Terminal-Cheatsheet-for-Mac-(-basics-))
 - [Learn Enough Command Line to Be Dangerous](http://www.learnenough.com/command-line)
 
+#Interview Preparation
+
+- [Big O Cheat Sheet](http://bigocheatsheet.com/)
 
 #Internships
 
