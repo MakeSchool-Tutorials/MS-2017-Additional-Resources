@@ -1,5 +1,5 @@
 ---
-title: "internships"
+title: "Internships"
 slug: internships
 ---
 
