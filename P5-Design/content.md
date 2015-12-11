@@ -7,7 +7,7 @@ This page compiles the resources that we think are the most useful. If you find 
 
 These resources compiled by [Theresa Garritano](http://theresa-garritano.com/).
 
-##Inspiration
+###Inspiration
 
 ####General Design Inspiration
 - [Dribbble](https://dribbble.com/)
@@ -39,7 +39,7 @@ These resources compiled by [Theresa Garritano](http://theresa-garritano.com/).
 ufferce6f3&utm_source=3Dbuffer&utm_medium=3Dtwitter&utm_campaign=3DBuffer)
 
 
-##Resources
+###Resources
 
 
 ####All design resources (photos, fonts, icons, etc)
@@ -67,5 +67,5 @@ d6zd)
 - [Compfight](http://compfight.com/)
 - [Public Domain Pictures](http://publicdomainpictures.net/)
 
-###Random Data Generator
+####Random Data Generator
 - [Mockaroo](https://www.mockaroo.com/)
