@@ -9,7 +9,7 @@ We've put together some HackerRank tests with the kinds of questions that often 
 
 This test contains 3 questions that cover merging sorted **arrays**, **binary search trees** and **bit manipulation**.
 
-[Take it here.](http://hr.gs/ms17-ip1-s)
+[Take it here.](http://hr.gs/ms17-hr1)
 
 
 
